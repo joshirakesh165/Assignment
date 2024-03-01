@@ -1,4 +1,4 @@
-## The project will contains mini react chanlanges build with react
+## The project will contains mini react challenges build with react
 Here are few Examples
 
 * Infinite Scrolling with intersection Observer
