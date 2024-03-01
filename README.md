@@ -1,4 +1,4 @@
-## The project will contains Mini react challenges
+## The project will contains Mini React or JS challenges
 Here are few Examples
 
 * Infinite Scrolling with intersection Observer
