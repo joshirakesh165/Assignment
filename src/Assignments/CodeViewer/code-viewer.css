@@ -1,0 +1,35 @@
+.code-viewere {
+    padding: 10px;
+}
+.code-value {
+    color: red;
+}
+.code-keyword {
+    color: blue;
+}
+.code-paranthesis {
+    color: green;
+}
+.code-comment {
+    color: green;
+}
+.code-digit {
+    color: green;
+}
+.copy-clipboard {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgray;
+    width: 150px;
+    padding-left: 10px;
+    justify-content: space-around;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.copy-clipboard:hover{
+    background-color: lightgray;
+}
+.copy-clipboard  img {
+    height: 15px;
+    width: 15px;
+}
