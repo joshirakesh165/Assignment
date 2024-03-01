@@ -1,0 +1,32 @@
+.img-container {
+    display: flex;
+    width: 30%;
+    margin: auto;
+    height: auto;
+    justify-content: center;
+    flex-direction: column;
+}
+.shimmer-loader-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.shimmer-loader {
+    background-color: lightgray;
+    height: 385px;
+    width: 513px;
+    margin-top: 10px;
+}
+
+img {
+    padding: 10px;
+}
+
+.flex {
+   display: flex;
+}
+
+.flex-c {
+    display: flex;
+    justify-content: center;
+}
