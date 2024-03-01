@@ -1,4 +1,4 @@
-## The project will contains mini react projects build with react
+## The project will contains mini react chanlanges build with react
 Here are few Examples
 
 * Infinite Scrolling with intersection Observer
@@ -19,4 +19,4 @@ Here are few Examples
 
 ## Hooks
 
-* Deltecting out side click  of dropdown/multiselcet etc.
+* Detecting out side click  of dropdown/multiselcet etc.
