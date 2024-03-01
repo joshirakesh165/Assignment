@@ -1,0 +1,27 @@
+.rj-chips-container {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: text;
+}
+.rj-chips-list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+.rj-chips-list-item {
+    margin: 2px;
+    border-radius: 20px;
+    background-color: #e5e7eb;
+    border: 1px solid #d1d5db;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+.rj-chips-list  .rj-chips-input {
+    outline: none;
+    height: 100%;
+    border: none;
+    width: 100%;
+    padding-left: 10px;
+}
