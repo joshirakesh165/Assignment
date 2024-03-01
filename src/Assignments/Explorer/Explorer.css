@@ -1,0 +1,23 @@
+
+.folder-btn-c {
+    margin-left: 10px;
+}
+.icon {
+    height: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+    border: 1px solid yellow;
+    padding: 1px;
+}
+.folder {
+    padding: 5px;
+    margin-top: 5px;
+    background-color: lightgray;
+    width: 200px;
+}
+ul {
+    margin-top: 5px;
+}
+li {
+    list-style: none;
+}
