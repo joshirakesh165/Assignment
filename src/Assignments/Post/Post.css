@@ -1,0 +1,36 @@
+.post {
+    background-color: #dfe3ee;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+ .post .post-avatar {
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    background-color: #fff;
+    text-align: center;
+    display: flex;
+    margin-top: 8px;
+}
+.post .post-detail {
+    margin-left: 20px;
+}
+.text-area {
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.reply-btn {
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+    background-color: lightgreen;
+}
+.img-btn {
+    cursor: pointer;
+    height: 30px;
+
+}
