@@ -31,11 +31,12 @@ function InfiniteScroll() {
                 {images.map((image, index) => <img key={index} src={image.url} alt="" />)}
             </div>
             <div id="lastElement" ref={lastElementRef}>
-                <div className='shimmer-loader-container'>
+                {/* <div className='shimmer-loader-container'>
                     <div className='shimmer-loader'></div>
                     <div className='shimmer-loader'></div>
                     <div className='shimmer-loader'></div>
-                </div>
+                </div> */}
+                <div>loading...</div>
             </div>
         </>
     )
